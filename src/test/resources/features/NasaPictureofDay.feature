@@ -1,4 +1,4 @@
-@api
+
   Feature: 
     Scenario: 
       Given kullanici resim icin "nasa" adresine gider
