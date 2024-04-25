@@ -1,7 +1,7 @@
 
   
   Feature: US02 JPH PUT request
-    @api
+
     Scenario: TC02 JsonPlaceHolder PUT request
       
       Given kullanici "jphURL" adresine gider
